@@ -1,0 +1,4 @@
+Git init
+Git add FileName
+Git Commit
+Git Status
