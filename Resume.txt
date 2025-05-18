@@ -1,0 +1,7 @@
+Name
+Email ID
+Education
+Skills
+Work Experience
+Hobbies
+Contact Info
